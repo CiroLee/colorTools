@@ -1,0 +1,27 @@
+.colorgradient-container{
+    width:78%;
+    padding:4px;
+    max-width:900px;
+    background: #fff;
+    margin:0 auto;
+    overflow: hidden;
+}
+.compatible-zone{
+    margin:6px 18px;
+    margin-top:20px;
+    padding:8px;
+    background: #e1e3e4;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.compatible-title{
+    font-size: 20px;
+    padding-bottom:8px;
+}
+.colorgradient-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-top:20px;
+    margin-bottom:12px;
+}

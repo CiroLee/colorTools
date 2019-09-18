@@ -1,0 +1,45 @@
+.home-container{
+    width:100vw;
+    height:100vh;
+    position: relative;
+    z-index: 10;
+    background-color: #fff;
+    overflow: hidden;
+}
+.github-btn{
+    position: absolute;
+    width:116px;
+    height:44px;
+    top:8px;
+    right:10px;
+}
+.github-btn a{
+    height:100%;
+    border-bottom:2px solid #eae8e8;
+    position: relative;
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#333;
+    transition:all .2s ease-in-out;
+}
+.github-btn a:hover{
+    border-color: #27b9fb;
+}
+.header{
+    font-size: 30px;
+    color:#333;
+    font-weight: bold;
+    text-align: center;
+    margin-top:100px;
+}
+.navigate-content{
+    width:64%;
+    padding:4px;
+    margin:0 auto;
+    margin-top:60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

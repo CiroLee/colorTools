@@ -1,0 +1,21 @@
+.color-value-wrapper{
+    width:220px;
+    height:34px;
+    box-sizing: border-box;
+    border:1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    margin:0 4px;
+}
+.color-input{
+    flex:1;
+    padding:6px 12px;
+}
+.color-copy-btn{
+    width:42px;
+    text-align: center;
+    line-height: 32px;
+    box-sizing: border-box;
+    border-left: 1px solid #ccc;
+    cursor: pointer;
+}

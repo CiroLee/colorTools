@@ -1,0 +1,20 @@
+.colorplate-wrapper{
+    width:78%;
+    max-width: 900px;
+    height:100%;
+    margin:0 auto;
+    position: relative;
+    background-color: #fff;
+}
+.color-showing{
+    width:100%;
+    height:260px;
+}
+.colorplate{
+    padding:8px 16px;
+}
+.color-value{
+    background: #fff;
+    padding:10px 14px;
+    display: flex;
+}

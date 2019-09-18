@@ -1,0 +1,16 @@
+.github-corner-wrapper{
+    width:160px;
+    height:160px;
+    position: fixed;
+    top:0;
+    right:0;
+    background: pink;
+    overflow: hidden;
+}
+.diagonal{
+    width: 4px;
+    height: 1000px;
+    background: #000;
+    transform: rotate(-45deg);
+    position: absolute;
+}

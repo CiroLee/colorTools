@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.main-container {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  background: #f7f5f5;
+  overflow: auto;
+}
+.chrome-picker{
+  box-shadow: none !important;
+  box-sizing: border-box !important;
+  border:1px solid #f3f3f3;
+}

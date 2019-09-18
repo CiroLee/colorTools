@@ -1,0 +1,21 @@
+export default {
+    iconfontUrl:'//at.alicdn.com/t/font_1410906_u89qethlc5m.js',
+    //导航按钮配置
+    navbuttons:{
+        main:{icon:'rocket'},
+        navButtons:[
+            {
+                path:'/',
+                icon:'home',
+            },
+            {
+                path:'/colorplate',
+                icon:'colorplate'
+            },
+            {
+                path:'/colorgradient',
+                icon:'editcolors'
+            }
+        ],
+    }
+}
