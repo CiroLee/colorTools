@@ -5,7 +5,7 @@
     border:1px solid #ccc;
     display: flex;
     justify-content: space-between;
-    margin:0 4px;
+    margin-right: 22px;
 }
 .color-input{
     flex:1;

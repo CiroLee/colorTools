@@ -2,8 +2,9 @@
     width:100vw;
     height:100vh;
     position: relative;
-    z-index: 10;
-    background-color: #fff;
+    z-index: 9999;
+    background:#fff url('../../assets//home_background_image.png') center no-repeat;
+    background-size: cover;
     overflow: hidden;
 }
 .github-btn{
@@ -41,5 +42,5 @@
     margin-top:60px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
 }

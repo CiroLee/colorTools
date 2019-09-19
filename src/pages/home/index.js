@@ -9,7 +9,7 @@ export default props => {
     return (
         <div className='home-container'>
             <div className='github-btn'>
-                <a href="http://www.baidu.com">
+                <a href="https://github.com/CiroLee/colorTools" target='_blank' rel="noopener noreferrer" >
                     <Icon type='github' style={{fontSize:24,paddingRight:10}} />
                     github
                 </a>

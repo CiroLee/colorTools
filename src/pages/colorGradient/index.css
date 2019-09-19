@@ -1,5 +1,6 @@
 .colorgradient-container{
     width:78%;
+    min-height:100%;
     padding:4px;
     max-width:900px;
     background: #fff;

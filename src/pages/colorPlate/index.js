@@ -2,6 +2,7 @@ import React , {useState} from 'react';
 import {Tabs} from 'antd';
 import ColorSlider from './ColorSlider';
 import ColorValue from './ColorValue';
+import ColorCard from './ColorCard';
 import colorplateConfig from '../../configs/colorplate.config';
 import {HexToRGB} from '../../utils/utils'
 import './index.css';
@@ -30,8 +31,13 @@ export default props => {
                                 <ColorSlider key={index} slider={item} setColor={handleSetColor} />
                             ))}
                         </TabPane>
-                        <TabPane tab='Material' key='material'></TabPane>
-                        <TabPane tab='ColorTale' key='colortale'></TabPane>
+                        <TabPane tab='ColorTale' key='colortale'>
+                            <div className='colorcard-contianer'>
+                                {colorplateConfig.colortable.map((item,index)=>(
+                                    <ColorCard key={index} colorTable={item} setColor={handleSetColor} />
+                                ))}
+                            </div>
+                        </TabPane>
                     </Tabs>
                 </div>
             </div>

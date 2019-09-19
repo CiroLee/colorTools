@@ -1,20 +1,30 @@
 .colorplate-wrapper{
     width:78%;
     max-width: 900px;
-    height:100%;
+    min-height:calc(100% - 260px);
     margin:0 auto;
     position: relative;
     background-color: #fff;
 }
 .color-showing{
-    width:100%;
+    width:78%;
+    max-width: 900px;
     height:260px;
+    position: fixed;
+    top:0;
+    z-index:999;
 }
 .colorplate{
+    margin-top:260px;
     padding:8px 16px;
 }
 .color-value{
     background: #fff;
     padding:10px 14px;
     display: flex;
+    
+}
+.colorcard-contianer{
+    width:90%;
+    margin:auto;
 }
