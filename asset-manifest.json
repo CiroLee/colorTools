@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/colortools/static/css/main.878c167a.chunk.css",
-    "main.js": "/colortools/static/js/main.64ffea01.chunk.js",
-    "runtime~main.js": "/colortools/static/js/runtime~main.c3107d2a.js",
-    "static/css/2.6086237b.chunk.css": "/colortools/static/css/2.6086237b.chunk.css",
-    "static/js/2.48fb7096.chunk.js": "/colortools/static/js/2.48fb7096.chunk.js",
-    "index.html": "/colortools/index.html",
-    "precache-manifest.c05e6b4db7c394e1cea7458f60c6cb25.js": "/colortools/precache-manifest.c05e6b4db7c394e1cea7458f60c6cb25.js",
-    "service-worker.js": "/colortools/service-worker.js",
-    "static/media/index.css": "/colortools/static/media/home_background_image.f1bbb8ae.png"
+    "main.css": "/colorTools/static/css/main.2fae4c9b.chunk.css",
+    "main.js": "/colorTools/static/js/main.64ffea01.chunk.js",
+    "runtime~main.js": "/colorTools/static/js/runtime~main.3b8c8c19.js",
+    "static/css/2.6086237b.chunk.css": "/colorTools/static/css/2.6086237b.chunk.css",
+    "static/js/2.9562a9aa.chunk.js": "/colorTools/static/js/2.9562a9aa.chunk.js",
+    "index.html": "/colorTools/index.html",
+    "precache-manifest.b616dd90538e3b46aaa9a9ffb4d51173.js": "/colorTools/precache-manifest.b616dd90538e3b46aaa9a9ffb4d51173.js",
+    "service-worker.js": "/colorTools/service-worker.js",
+    "static/media/index.css": "/colorTools/static/media/home_background_image.f1bbb8ae.png"
   }
 }
