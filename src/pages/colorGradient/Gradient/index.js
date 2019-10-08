@@ -142,7 +142,7 @@ export default props => {
     //复制渐变色
     const copyGradient = ()=>{
         //console.log(gradient,props.compatibility);
-        let result = props.compatibility.map(item=>`background-iamge:${item}${gradient};`).join('\n');
+        let result = props.compatibility.map(item=>`background-image:${item}${gradient};`).join('\n');
         result = `background-image:${gradient};\n${result}`;
         copyToClipboard(result);
     }
