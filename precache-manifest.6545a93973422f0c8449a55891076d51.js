@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b25c91ef2b4c23eaaabb58e5e3924cc6",
+    "revision": "5244394a910e3923a34ce6baa9ce6fba",
     "url": "/colorTools/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colorTools/static/css/2.6086237b.chunk.css"
   },
   {
-    "revision": "94969ea2f5337681e6d8",
+    "revision": "3304685a78184f4adaf2",
     "url": "/colorTools/static/css/main.c7575d70.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colorTools/static/js/2.9562a9aa.chunk.js"
   },
   {
-    "revision": "94969ea2f5337681e6d8",
-    "url": "/colorTools/static/js/main.64ffea01.chunk.js"
+    "revision": "3304685a78184f4adaf2",
+    "url": "/colorTools/static/js/main.7f84ffa1.chunk.js"
   },
   {
     "revision": "a549f839798dd3625cd4",
